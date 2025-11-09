@@ -9,7 +9,7 @@ SI = (P × R × T) / 100
 
 ---
 
-## ⚙️ Features
+## ⚙️ Features:-
 ✅ Takes user input for:
 - Principal amount 💰  
 - Rate of interest (%) 📈  
@@ -24,11 +24,11 @@ SI = (P × R × T) / 100
 
 ---
 
-## 🧠 Formula Used
+## 🧠 Formula Used:-
 SI = (P * R * T) / 100
 Total Amount = P + SI
 
-🧰 Tools & Tech
+🧰 Tools & Tech:-
 
 Language: C
 
@@ -36,7 +36,7 @@ IDE: Any C compiler (Code::Blocks, VS Code, Turbo C++, etc.)
 
 Platform: Windows / Linux / macOS
 
-📚 What I Learned
+📚 What I Learned:-
 
 Using printf() and scanf() for input/output
 
@@ -46,7 +46,7 @@ Applying real-world finance formulas using code
 
 Understanding float precision for decimal accuracy
 
-✨ Author
+✨ Author:-
 
 Omkar Rele
 Mechanical Engineering Student 🛠️
