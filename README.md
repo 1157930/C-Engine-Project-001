@@ -9,6 +9,9 @@ SI = (P × R × T) / 100
 
 ---
 
+Here is the link to the code :-
+https://github.com/1157930/C-Engine-Project-001/blob/main/simpleinterestcalculator.c
+
 ## ⚙️ Features:-
 ✅ Takes user input for:
 - Principal amount 💰  
